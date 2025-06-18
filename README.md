@@ -107,9 +107,21 @@ Berikut langkah-langkah untuk menjalankan Sistem Machine Learning yang telah dib
    ![2d](https://github.com/user-attachments/assets/3714b676-5d51-4d3d-b4c3-c89a01647c28)
    
 ## Conclusion
-Jelaskan konklusi dari proyek yang dikerjakan.
+Berdasarkan hasil analisa yang tela dilakukan Proyek ini berhasil mengidentifikasi dan menganalisis faktor-faktor utama yang memengaruhi tingkat dropout mahasiswa di Jaya Jaya Institut, berdasarkan data akademik, sosial, dan ekonomi yang tersedia sejak awal pendaftaran. 
+Beberapa temuan utama dari analisis dan dashboard yang dibangun meliputi:
+1. Tingkat dropout mahasiswa cukup tinggi, yaitu sekitar 32% dari total mahasiswa yang dianalisis.
+2. Mahasiswa yang tidak menerima beasiswa dan memiliki tunggakan pembayaran cenderung lebih rentan terhadap risiko dropout.
+3. Program studi seperti Manajemen (Reguler & Evening), Keperawatan, serta Jurnalistik menunjukkan angka dropout tertinggi, sehingga memerlukan perhatian dan evaluasi khusus.
+4. Dashboard interaktif berbasis Looker Studio yang telah dikembangkan memungkinkan pihak kampus untuk menyaring dan memantau performa mahasiswa berdasarkan berbagai filter penting seperti usia, status sosial, hingga program studi.
+
+Selain itu, sistem prediksi berbasis machine learning juga berhasil dibangun dan di-deploy melalui aplikasi Streamlit untuk membantu mendeteksi potensi dropout sejak dini.
+
 
 ### Rekomendasi Action Items
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-- action item 1
-- action item 2
+Berikut rekomendasi Item yang dapat dilakukan oleh jaya-jaya institute: 
+1. Meningkatkan akses terhadap beasiswa bagi mahasiswa dari kelompok rentan secara sosial-ekonomi.
+2. Menyediakan program bimbingan dan mentoring khusus untuk mahasiswa yang masuk dalam kelompok berisiko tinggi dropout.
+3. Melakukan evaluasi akademik pada program studi dengan tingkat dropout tinggi untuk memahami tantangan pembelajaran yang dihadapi mahasiswa.
+4. Melibatkan unit layanan konseling dan keuangan untuk memberikan edukasi serta pendampingan dalam hal pembayaran biaya kuliah.
+5. Mengevaluasi course yang memiliki tingkat dropout tinggi agar segera dievaluasi baik dari segi kurikulum, kesempatan kesempatan kerja setelah lulus dan faktor-faktor lainnya
+
