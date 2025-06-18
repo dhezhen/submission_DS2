@@ -96,9 +96,16 @@ Top 5 program studi dengan dropout tertinggi:
 
 ## Menjalankan Sistem Machine Learning
 Berikut langkah-langkah untuk menjalankan Sistem Machine Learning yang telah dibangun
-1. Silakan buka link stremalite pada link berikut: https://submissionnds2.streamlit.app/ 
-
-
+1. Silakan buka link streamlite pada link berikut: https://submissionnds2.streamlit.app/
+2. pada halaman awal Anda akan diminta untuk memilih course
+   ![image](https://github.com/user-attachments/assets/48eeec62-216c-4de9-bc0c-5e5a8d8fb8ec)
+3. Selanjutnya silakan isi isian dan pilian dari inputan variabel tersebut, dimana terdapat 15 inputan variabel seperti dibawa ini:
+![2a](https://github.com/user-attachments/assets/0b32035c-7642-453c-a86d-eb2dec2bf936)
+4. jika suda liat pada bagian bawah terdapat tabel summari dari inputan diatas:
+   ![2c](https://github.com/user-attachments/assets/4fe58ed9-c7a3-4e29-9c48-6f2f3a753654)
+5. Klik tombol predict pada bagian bawa, maka sistem akan memunculkan hasil prediksinya:
+   ![2d](https://github.com/user-attachments/assets/3714b676-5d51-4d3d-b4c3-c89a01647c28)
+   
 ## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
 
