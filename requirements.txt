@@ -3,5 +3,4 @@ pandas>=1.5.0
 joblib>=1.2.0
 streamlit
 scikit-learn
-matplotlib
-seaborn
+
